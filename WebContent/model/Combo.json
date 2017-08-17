@@ -1,0 +1,12 @@
+ { "Deptcollection" :[    { "dept" :"SAP"},
+					      { "dept" :"Oracle"},
+					      { "dept" :"Java"},
+					       { "dept" :"Net"},
+					        { "dept" :"C"},
+					         { "dept" :"Salesforce"},
+					          { "dept" :"DevOps"}
+					    ]
+				
+				
+				
+}				
